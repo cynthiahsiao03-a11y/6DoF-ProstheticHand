@@ -9,7 +9,7 @@ As part of IGEN 330, I worked on a team developing a low-cost, 6-DOF myoelectric
 <br />
 
 
-<h2>Skills Learnt/Utilzed</h2>
+<h2>Skills Learnt/Utilized</h2>
 
 - <b>OnShape</b> 
 - <b>FEA Analysis</b>

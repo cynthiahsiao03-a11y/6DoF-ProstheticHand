@@ -2,8 +2,9 @@
 
 <p align="center">
 Talo's Hand for Industrial Use: <br/>
-<img src="https://media.discordapp.net/attachments/868328641946329128/1473425340025143410/image.png?ex=699629c7&is=6994d847&hm=11c929beca05ac95019acc1b4ac92f59a4e27fd2d846b35661306feb445bf4b2&=&format=webp&quality=lossless&width=1088&height=996" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p align="center">
+<img src="https://media.discordapp.net/attachments/868328641946329128/1474874465358712832/image.png?ex=699b6f62&is=699a1de2&hm=9393984048470adae7d3cce9a4f5b2dc8b7a36588fa400ede2d0a3a4a1b56fdc&=&format=webp&quality=lossless&width=1340&height=514" height="80%" width="80%" 
+<br />
 <h2>Description</h2>
 As part of IGEN 330, I worked on a team developing a low-cost, 6-DOF myoelectric prosthetic hand based on the Talos robotic hand platform. Our goal was to redesign the system for prosthetic use while improving affordability, modularity, and intuitive control. I contributed to the mechanical redesign of the wrist to integrate an Electronic Quick Connect (EQC), enabling secure attachment and reliable power/signal transfer. Structural performance was validated using FEA under a 300 N palm load to ensure durability.
 <br />
@@ -18,11 +19,10 @@ As part of IGEN 330, I worked on a team developing a low-cost, 6-DOF myoelectric
 
 <p align="center">
 Components: <br/>
-<img src="https://media.discordapp.net/attachments/868328641946329128/1473426636899749981/image.png?ex=69962afd&is=6994d97d&hm=3b1da38e5f9d508e3ea0fe0f01c1f7b914e0bcbc36eab470518ba3dc457532a1&=&format=webp&quality=lossless&width=1340&height=664" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://media.discordapp.net/attachments/868328641946329128/1474873793586663504/image.png?ex=699b6ec2&is=699a1d42&hm=85f755300fd172a8db5140275f23ef9514a9a4503c8e85c4e2423be9e03b9e60&=&format=webp&quality=lossless&width=1340&height=696" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Electronic Quick Connect (EQC):  <br/>
-<img src="https://media.discordapp.net/attachments/868328641946329128/1473427175926530340/image.png?ex=69962b7d&is=6994d9fd&hm=3ac6e234462e18fd02bb62c4ebef1ccc9d2572d1a8fe4e093983b0e784e29d14&=&format=webp&quality=lossless&width=1196&height=562" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 I led the mechanical integration of an Electronic Quick Connect (EQC) into the prosthetic wrist, enabling secure attachment to a socket while transferring power and communication signals between the hand and control system.
 
@@ -33,7 +33,7 @@ The redesign also prioritized minimizing added length from the EQC to preserve a
 <br />
 <p align="center">
 Prosthetic Demonstration Device Design: <br/>
-<img src="https://media.discordapp.net/attachments/868328641946329128/1473427939356966973/image.png?ex=69962c33&is=6994dab3&hm=8c29da14678007b17f756e1fe90551883e8dd9570aa56e4169efd8a682d1bdf6&=&format=webp&quality=lossless&width=1340&height=878" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://media.discordapp.net/attachments/868328641946329128/1474873602779123855/image.png?ex=699b6e94&is=699a1d14&hm=2c79959a03e0e7ba033d2b3b1a11a98e434c27b186943f723fd9bd1f2986f32c&=&format=webp&quality=lossless&width=992&height=792" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 I contributed to the integration and assembly of the Talos-based 6-DOF prosthetic hand into a modular, wearable system that combined mechanical structure, embedded electronics, and control hardware.
 <p align="center">
@@ -46,15 +46,15 @@ The final demonstration device enabled structured usability testing and live val
 <br />
 <p align="center">
 Finite Element Analysis (FEA):  <br/>
-<img src="https://media.discordapp.net/attachments/868328641946329128/1473428319058919576/image.png?ex=69962c8e&is=6994db0e&hm=a52faf812de5b8d6af87f7482f7f2f45585a72e90834c516a3261ab7447a6ae9&=&format=webp&quality=lossless&width=1340&height=610" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://media.discordapp.net/attachments/868328641946329128/1474873602506625249/image.png?ex=699b6e94&is=699a1d14&hm=37ea34e226ea880b5e3e0253c63842361fa98fa2167157857e3c6117b779c3a0&=&format=webp&quality=lossless&width=812&height=744" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 To ensure the redesigned wrist and EQC interface could withstand real-world loading, I conducted structural verification using Finite Element Analysis (FEA). The primary validation case simulated a 300 N quasi-static palm load to represent pushing or weight-bearing through the hand.
 <p align="center">
-The analysis compared baseline and updated wrist designs, evaluating:
-- Maximum von Mises stress
-- Peak displacement and overall deflection
-- Reaction forces at mounting interfaces
-- Estimated factor of safety
+The analysis compared baseline and updated wrist designs, evaluating: <br />
+- Maximum von Mises stress<br />
+- Peak displacement and overall deflection<br />
+- Reaction forces at mounting interfaces<br />
+- Estimated factor of safety<br />
 </p>
 
 <!--
